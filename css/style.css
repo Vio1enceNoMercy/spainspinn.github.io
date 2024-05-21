@@ -1,0 +1,10 @@
+body{
+    background-image: url('../IMG/iii.jpg');
+    background-repeat: no-repeat;
+}
+h1{
+    color: azure;
+}
+#fra,#Spa{
+    position: absolute;
+}
